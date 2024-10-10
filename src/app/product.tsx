@@ -6,7 +6,7 @@ const Products = () => {
     const products = [
       { name: 'Sneaker', price: '$35.99', img: '/sneaker.png', rating: 4.2 },
       { name: 'Black Crop Tailored Jacket', price: '$58.99', img: '/jacket.png', rating: 4.5 },
-      { name: 'Long Sleeve', price: '$30.99', img: '/long sleeve.png', rating: 2.8 },
+      { name: 'T-Shirt', price: '$30.99', img: '/t-shirt.png', rating: 2.8 },
       { name: 'Sun Glasess', price: '$65.99', img: '/sunglases.png', rating: 3.6 },
       { name: 'Hoodie & sweater', price: '$60.99', img: '/hoodie-vs-sweater.png', rating: 4.5 },
       { name: 'Coat', price: '$20.99', img: '/coat.png', rating: 1.5 },
