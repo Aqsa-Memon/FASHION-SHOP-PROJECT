@@ -9,14 +9,13 @@ import React from 'react'
                 Get in Touch
               </h2>
               <p className="mt-2 text-center text-sm text-green-600">
-                We'd love to hear from you!
+                We love to hear from you!
               </p>
             </div>
             <form className="mt-8 space-y-6" action="#" method="POST">
               <div className="rounded-md shadow-sm -space-y-px">
                 <div className="mb-4">
-                  <label htmlFor="name" className="block text-sm font-medium text-gray-700">
-                    Name
+                  <label htmlFor="name" className="block text-sm font-medium text-gray-700"> Name
                   </label>
                   <input
                     id="name"
@@ -72,7 +71,7 @@ import React from 'react'
                 Or contact us directly at:
               </p>
               <p className="text-center text-sm text-gray-900 font-semibold">
-                Phone: +123 456 63812
+                Phone: +923 456 63812
               </p>
               <p className="text-center text-sm text-gray-900 font-semibold">
                 Email: support@fashionshop.com

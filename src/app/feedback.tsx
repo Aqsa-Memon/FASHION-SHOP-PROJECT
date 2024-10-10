@@ -24,7 +24,7 @@ const feedbacks = [
                 key={index}
                 className="bg-green-100 p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300"
               >
-                <p className="text-gray-700 italic">"{feedback.comment}"</p>
+                <p className="text-gray-700 italic">{feedback.comment}</p>
                 <h3 className="mt-4 text-lg font-semibold text-gray-900">
                   {feedback.name}
                 </h3>
