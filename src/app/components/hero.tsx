@@ -1,7 +1,6 @@
 //Hero
 import Image from "next/image";
 
-
 const Hero = () => {
     return (
       <section className="bg-green-50 py-12">
@@ -14,7 +13,7 @@ const Hero = () => {
           <div className="mt-9 md:mt-0">
             <Image src="/pic.png" width={600} height={800} alt="Fashion" className="w-full h-auto" />
           </div>
-         
+     
         </div>
       </section>   
 
