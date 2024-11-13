@@ -1,3 +1,5 @@
+
+
 import React from 'react'
 
     const Contact = () => {
@@ -74,7 +76,7 @@ import React from 'react'
                 Phone: +923 456 63812
               </p>
               <p className="text-center text-sm text-gray-900 font-semibold">
-                Email: support@fashionshop.com
+                Email: support@scooter.com
               </p>
             </div>
           </div>
@@ -83,4 +85,6 @@ import React from 'react'
     }
     
     export default Contact;
+    
+
     
